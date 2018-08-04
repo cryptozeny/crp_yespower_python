@@ -1,0 +1,2 @@
+/usr/local/lib/python2.7/dist-packages/crp_yespower.so
+/usr/local/lib/python2.7/dist-packages/crp_yespower-1.0.egg-info
